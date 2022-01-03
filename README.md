@@ -1,6 +1,6 @@
 ### Hello to anyone visiting my profile page! 👋
 
-I'm currently continually building my knowledge of C++, and I intend to try and gain a better 'big picture' understanding with that language.  Having started studying programming on a few different fronts in September 2020 (luckily, having been recommended to open a GitHub profile ASAP), I dabbled in a few different languages.  Rather than take a blunt swiss army knife of programming languages into the market, since May 2020 or so, I decided to sharpen one skill to the very best of my ability: C++!
+Aspiring programmer - dabbling since 2020, serious studying since January 2021!  Rather than take a blunt swiss army knife of programming languages into the market, in 2021, I decided to sharpen one skill to the very best of my ability: C++!  2022 will be another transitional year, but I hope to end with a comprehensive knowledge of all major Data Structures&Algorithms, as well as able to confidently solve most exercises found on LeetCode!   I'm following Moustafa Saad Ibrahim's roadmap to the industry!
 
 2022 Plan:
 
@@ -14,4 +14,3 @@ Oct-Dec:  Review of all beginner-intermediate topics in C++, deeper dive into OO
 
 Once I'm through with the three Udemy courses above, I'll be delving further into consolidating my knowledge of the rudimentary knowledge of HTML and CSS learned so far, as well as working on forging and sharpening my other tools!   I imagine I'll be attempting the Odin Project one day, as well as working through (and building a deep understanding) of all languages covered in Colt Steele's Web Development course.   I'm looking forward to seeing how all this pans out in the future - and looking back on this profile in January 2023!
 
-If you have any questions, don't hesitate to get in touch!

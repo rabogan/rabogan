@@ -7,8 +7,9 @@ Aspiring programmer - dabbling since 2020, serious studying since January 2021! 
 General: [I want to build a solid understanding of the MERN stack, and demonstrate this in projects.  I want to successfully interview with a company in the SoCal area]
 
 Jan-Mar 1:  [I have already achieved a good understanding of basic DS and algorithms.  Completing this course will finalize my tentative DSA study](https://www.udemy.com/course/skills-algorithms-cpp2/)
-Jan-Mar 2:  [Simultaneously, I will be working on this course: find my accompanying website, https://rabogan.github.io/ColtSteelePractice/](https://www.udemy.com/course/the-web-developer-bootcamp/)
-Jan-Mar 3:  [As well as that, I'm try to use Unix/Git to build another project via the Odin Project](https://rabogan.github.io/odin-recipes/)
+Jan-Mar 2:  [Simultaneously, I will be working on this course](https://www.udemy.com/course/the-web-developer-bootcamp/)
+Jan-Mar2b:  [Please check out my (currently unreadable) website for the above course](https://rabogan.github.io/ColtSteelePractice/)
+Jan-Mar 3:  [As well as that, I'm trying to use Unix/Git to build another project via the Odin Project: I will take the Node path, hopefully in March](https://rabogan.github.io/odin-recipes/)
 
 
 2022 Plan:

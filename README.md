@@ -1,6 +1,6 @@
 ### Hello to anyone visiting my profile page! 👋
 
-Aspiring programmer - dabbling since 2020, serious studying since January 2021!  Rather than take a blunt swiss army knife of programming languages into the market, in 2021, I decided to sharpen one skill to the very best of my ability: C++!  2022 will be another transitional year, but I hope to end with a comprehensive knowledge of all major Data Structures&Algorithms, as well as able to confidently solve most exercises found on LeetCode!   I'm following Moustafa Saad Ibrahim's roadmap to the industry!
+Aspiring programmer - dabbling since 2020, serious studying since January 2021!  Rather than take a blunt swiss army knife of programming languages into the market, in 2021, I decided to sharpen one skill to the very best of my ability: C++!  In 2022, I put a lot of work into developing my DSA and Problem Solving Skills, with success.  In 2023, I will be building up lasting projects, while reviewing acquired skills!  It's all about OUTPUT and PROJECTS this year - I hope to find a job before the summer!
 
 2023 Plan:
 

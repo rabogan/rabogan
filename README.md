@@ -8,21 +8,19 @@ General:
 1)  I want to build a solid understanding of the MERN stack, and demonstrate this in projects
 2)  I want to successfully interview with a company in the SoCal area
 
-Jan-Mar 1:  [I have already achieved a good understanding of basic DS and algorithms.  Completing the Udemy course by Mostafa Saad Ibrahim in this link will finalize my tentative DSA study](https://www.udemy.com/course/skills-algorithms-cpp2/)
+Jan-Mar GOAL 1:  Last year, I gained a solid understanding of basic DSA.  Completing this Udemy course by Mostafa Saad Ibrahim in this link will finalize my tentative DSA study: [link](https://www.udemy.com/course/skills-algorithms-cpp2/)
 
-Jan-Mar 2:  [Simultaneously, I will be working on this Web Development course by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)
+Jan-Mar GOAL 2:  Simultaneously, I will be working through a Web Development course by Colt Steele.  My (currently unreadable) website for the above course is progressing day-by-day here: [link](https://rabogan.github.io/ColtSteelePractice/)
 
-ADDITIONALLY:  [Please check out my (currently unreadable) website for the above course](https://rabogan.github.io/ColtSteelePractice/)
-
-Jan-Mar 3:  [As well as that, I'm trying to use Unix/Git to build another project via the Odin Project: I will take the Node path, hopefully in March](https://rabogan.github.io/odin-recipes/)
+Jan-Mar GOAL 3:  As well as that, I'm trying to use Unix/Git to build another project via the Odin Project: I will take the Node path, hopefully finishing the JS section before April.  The progress on this will be a little slower: [link](https://rabogan.github.io/odin-recipes/)
 
 
 2022 Plan:
 
-Jan-mid Feb:  [Consolidate knowledge of most major DS (Arrays, Vectors, Stack, Queue, Binary Search Trees, Heaps, Tries, Hash Tables)](https://www.udemy.com/course/dscpp-skills/)   ACHIEVED!
+Jan-mid Feb:  Consolidate knowledge of most major DS (Arrays, Vectors, Stack, Queue, Binary Search Trees, Heaps, Tries, Hash Tables) from this [course](https://www.udemy.com/course/dscpp-skills/)   ACHIEVED!
 
-Feb-Jun: [Master Algorithms used in C++](https://www.udemy.com/course/skills-algorithms-cpp/)   ACHIEVED!
+Feb-Jun: Master Algorithms used in C++ (basic sorting, graphs, binary searches) using this [course](https://www.udemy.com/course/skills-algorithms-cpp/)   ACHIEVED!
 
-Jul-Oct:  [Work on Coding Interview Questions, and problem solving skills](https://www.udemy.com/course/skills-coding-interviews/)  ACHIEVED!
+Jul-Oct:  Work on Coding Interview Questions, and problem solving skills with this [course](https://www.udemy.com/course/skills-coding-interviews/)  ACHIEVED!
 
 Oct-Dec:  Review of all beginner-intermediate topics in C++, deeper dive into OOP - and find and select interesting project to help me break into the industry!   DEEPER DIVE DONE, but I have selected WebDev based projects, with an eye on diving deeper into the MERN stack

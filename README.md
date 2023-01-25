@@ -10,7 +10,7 @@ General:
 
 Jan-Mar GOAL 1:  Last year, I gained a solid understanding of basic DSA.  Completing this Udemy course by Mostafa Saad Ibrahim in this link will finalize my tentative DSA study: [link](https://www.udemy.com/course/skills-algorithms-cpp2/)
 
-Jan-Mar GOAL 2:  Simultaneously, I will be working through a Web Development course by Colt Steele.  My (currently unreadable) website for the above course is progressing day-by-day here: [link](https://rabogan.github.io/ColtSteelePractice/)
+Jan-Mar GOAL 2:  Simultaneously, I will be working through a Web Development course by Colt Steele.  My (increasingly readable) website for the above course is progressing day-by-day here: [link](https://rabogan.github.io/ColtSteelePractice/)
 
 Jan-Mar GOAL 3:  As well as that, I'm trying to use Unix/Git to build another project via the Odin Project: I will take the Node path, hopefully finishing the JS section before April.  The progress on this will be a little slower: [link](https://rabogan.github.io/odin-recipes/)
 

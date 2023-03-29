@@ -2,7 +2,7 @@
 
 A C++ programmer and problem solver, with serious studying starting in January 2021, via courses by this instructor: [link](https://www.udemy.com/user/mostafasaadibrahim/)
 
-In 2021, I got used to figuring out the basics of C++.  In 2022, I put a lot of work into developing my DSA knowledges and Problem Solving Skills, with a fair degree of success.  In 2023, I will be building up lasting projects, while reviewing acquired skills!  It's all about OUTPUT and PROJECTS this year - I hope to find a job before the summer!
+In 2021, I got used to figuring out the basics of C++.  In 2022, I put a lot of work into developing my knowledge of DSA, and improving my problem solving skills, with a fair degree of success.  In 2023, I will be building up lasting projects, while reviewing acquired skills!  It's all about OUTPUT and PROJECTS this year - I hope to find a job before the summer!  In an ideal world, I'll find a role that will allow me to continually learn on the job!
 
 2023 Plan:
 

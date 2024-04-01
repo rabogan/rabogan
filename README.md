@@ -5,8 +5,8 @@ I'm Bobby, a C++ programmer and problem solver!
 In 2021, I got used to figuring out the basics of C++.  In 2022, I put a lot of work into developing my knowledge of DSA, and improving my problem solving skills, with a fair degree of success.  In 2023, I put a lot of working into diversifying the skill-set by making really challenging and credible projects (to be released in 2024!)!  I'm comfortable with the Azure Platform, C++, C#, React and SQL - but looking forward to learning more in 2024!
 
 2024 Plans:
-1) Receive the AZ-204 Azure Developer Associate Cert
-2) Deploy my project via Azure, and get 1000 active users in the first 3 months
+1) Receive the AZ-204 Azure Developer Associate Cert (Test On April 19th)
+2) Deploy my project via Azure (ACHIEVED!)  Uses an SQL Server and SQL Database, with a Static Web App for the React front and an App Service for the C# backend
 3) After the project has gone up, build a solid understanding of the MERN stack, and demonstrate this in further projects
 4) While working on the personal projects, I want to successfully interview with a company in the SoCal area.  Ideally, I'll find myself in a corporate culture that encourages continual self-development, and rewards people who are driven and productive!  (I also hope to be continually learning and evolving on-the-job!)
 

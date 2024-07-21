@@ -9,7 +9,9 @@ In 2021, I got used to figuring out the basics of C++.  In 2022, I put a lot of 
 1) Receive the AZ-204 Azure Developer Associate Cert (UPDATE: ACHIEVED on 19th April 2024)
 2) Deploy my project via Azure!   Uses an SQL Server and SQL Database, with a Static Web App for the React front and an App Service for the C# backend.  (UPDATE: ACHIEVED)
 3) After the project has been deployed, build a solid understanding of the MERN stack, and demonstrate this in further projects (UPDATE: Completed a project using Flask and TailwindCSS+Flowbite for the CS50x: [link](https://youtu.be/iTdVH4ROMCs))
-4) While working on the personal projects, I want to successfully interview with a company in the SoCal area.  Ideally, I'll find myself in a corporate culture that encourages continual self-development, and rewards people who are driven and productive!  (I also hope to be continually learning and evolving on-the-job!) (UPDATE: Very tough job market!
+4) While working on the personal projects, I want to successfully interview with a company in the SoCal area.  Ideally, I'll find myself in a corporate culture that encourages continual self-development, and rewards people who are driven and productive!  (I also hope to be continually learning and evolving on-the-job!) (UPDATE: Very tough job market!)
+
+Given the lack of interest in my resume (and the lack of a qualification), I'm going to be working on an alternative path into the tech industry - and will be starting CalBright's free course for the CompTIA A+ from July 23rd, 2024.  I'm planning to work through this quickly and efficiently - looking at the expected content, it looks like I've already learned a lot about the cloud already!
 
 2023:
 Oct-Dec: Picked up the AZ-900 Azure Certification.  Now working on the AZ-204 while looking at using Azure to deploy an exciting upcoming .NET/React project!

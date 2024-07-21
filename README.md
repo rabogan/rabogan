@@ -2,13 +2,14 @@
 
 I'm Bobby, a C++ programmer and problem solver!
 
-In 2021, I got used to figuring out the basics of C++.  In 2022, I put a lot of work into developing my knowledge of DSA, and improving my problem solving skills, with a fair degree of success.  In 2023, I put a lot of working into diversifying the skill-set by making really challenging and credible projects (to be released in 2024!)!  I'm comfortable with the Azure Platform, C++, C#, React and SQL - but looking forward to learning more in 2024!
+In 2021, I got used to figuring out the basics of C++.  In 2022, I put a lot of work into developing my knowledge of DSA, and improving my problem solving skills, with a fair degree of success.  In 2023, I put a lot of working into diversifying the skill-set by making really challenging and credible projects (to be released in 2024!)!  I'm comfortable with the Azure Platform, C++, C#, React, Flask and SQL - but looking forward to learning more in the second half of 2024!
 
 2024 Plans:
-1) Receive the AZ-204 Azure Developer Associate Cert (Test On April 19th)
-2) Deploy my project via Azure (ACHIEVED!)  Uses an SQL Server and SQL Database, with a Static Web App for the React front and an App Service for the C# backend
-3) After the project has gone up, build a solid understanding of the MERN stack, and demonstrate this in further projects
-4) While working on the personal projects, I want to successfully interview with a company in the SoCal area.  Ideally, I'll find myself in a corporate culture that encourages continual self-development, and rewards people who are driven and productive!  (I also hope to be continually learning and evolving on-the-job!)
+*Updated on July 21st 2024*
+1) Receive the AZ-204 Azure Developer Associate Cert (UPDATE: ACHIEVED on 19th April 2024)
+2) Deploy my project via Azure!   Uses an SQL Server and SQL Database, with a Static Web App for the React front and an App Service for the C# backend.  (UPDATE: ACHIEVED)
+3) After the project has been deployed, build a solid understanding of the MERN stack, and demonstrate this in further projects (UPDATE: Completed a project using Flask and TailwindCSS+Flowbite for the CS50x: [link](https://youtu.be/iTdVH4ROMCs))
+4) While working on the personal projects, I want to successfully interview with a company in the SoCal area.  Ideally, I'll find myself in a corporate culture that encourages continual self-development, and rewards people who are driven and productive!  (I also hope to be continually learning and evolving on-the-job!) (UPDATE: Very tough job market!
 
 2023:
 Oct-Dec: Picked up the AZ-900 Azure Certification.  Now working on the AZ-204 while looking at using Azure to deploy an exciting upcoming .NET/React project!

@@ -3,9 +3,9 @@
 Hi, I'm **Bobby**, a problem solver based in **Southern California**!
 
 In 2021, I got used to figuring out the basics of **C++**.  
-In 2022, I put a lot of work into developing my knowledge of **DSA**, and improving my **problem-solving skills**, with a fair degree of success.  
+In 2022, I put a lot of work into developing my knowledge of **DSA**, and improving my **problem-solving skills**.  
 In 2023, I put a lot of work into **diversifying my skill set** by building really challenging and credible projects!  
-In 2024, I became comfortable with the **Azure Platform, C++, C#, React, Flask**, and **SQL**.  
+In 2024, I became comfortable with the **Azure Platform, C++, C#, React, Flask**, and **SQL**.  I deployed one project on Azure, and completed another which I use with my ESL students.
 However, with the job market being rather daunting without a CS degree, I pivoted toward finding work in the **IT industry**.
 
 As a result, my studies in software development have taken a backseat since completing **Harvard CS50x** in July 2024.  
